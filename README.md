@@ -54,8 +54,8 @@ Here are some ideas to get you started:
 </br>
 <div align="center">
 
-  [![GitHub Streak Dark](https://streak-stats.demolab.com?user=axitchandora&theme=github-dark#gh-dark-mode-only)](https://git.io/streak-stats)
-  <!-- [![GitHub Streak Light](https://streak-stats.demolab.com?user=axitchandora&theme=github-light#gh-light-mode-only)](https://git.io/streak-stats) -->
+  [![GitHub Streak Dark](https://streak-stats.demolab.com?user=axitchandora&theme=github-dark)](https://git.io/streak-stats)
+  <!-- [![GitHub Streak Light](https://streak-stats.demolab.com?user=axitchandora&theme=github-light)](https://git.io/streak-stats) -->
 </div>
 
 ## 🏆 GitHub Trophy
