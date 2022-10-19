@@ -83,9 +83,12 @@ Here are some ideas to get you started:
   ## Connect with me: <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="60px" height="38">
 <p align="left">
 
+<a href = "https://www.crio.do/learn/portfolio/axitchandora/"><img src="https://img.icons8.com/fluent/48/000000/portfolio.png"/></a>
 <a href = "https://www.linkedin.com/in/akshitchandora/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://twitter.com/akshitchandora"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+<a href = "https://www.leetcode.com/axitchandora"><img src="https://raw.githubusercontent.com/axitchandora/Personal-Stuff/main/Images/leetcode.png"/></a>
+<!-- <a href = "https://twitter.com/akshitchandora"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a> -->
 <a href = "https://www.instagram.com/akshitchandora/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+
 <!--<a href = "https://www.youtube.com/channel/"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>-->
 
 </p>
@@ -99,3 +102,5 @@ Here are some ideas to get you started:
 
 ### 👩‍🚀🚀 Thank You for giving the time 😄 to view my GitHub  Profile 👩‍🚀 🚀
 </div>
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=axitchandora&color=green&style=flat-square&color=7A29C3" width="150px" /></p>
